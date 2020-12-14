@@ -1,0 +1,68 @@
+
+/**
+ * OVERVIEW
+ *
+ * This project is separated to the following style sheets:
+ *
+ * base.css.............Global rules and helpers.
+ * layout.css...........CSS rules that control the layout of the page.
+ * components.css.......Own CSS for the components that build up the page.
+ */
+
+
+/*------------------------------------*\
+  #VARIABLES
+\*------------------------------------*/
+
+:root{
+  --font-button-fonts-default-5-warning-text-align: center;
+}
+
+
+
+
+/*------------------------------------*\
+  #PADDING
+\*------------------------------------*/
+
+.header,
+.main,
+.menu,
+.sidebar,
+.footer {
+	padding: 15px;
+  
+}
+
+
+
+/*------------------------------------*\
+  #BODY
+\*------------------------------------*/
+
+
+body{
+  background-color:beige;
+  font-family: 'Langar', cursive;
+
+}
+
+
+
+
+/*------------------------------------*\
+  #LINKS
+\*------------------------------------*/
+
+a{
+  text-decoration: none;
+ color:antiquewhite;
+}
+
+
+
+
+
+
+  
+
